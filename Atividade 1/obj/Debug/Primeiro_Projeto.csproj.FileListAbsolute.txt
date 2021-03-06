@@ -1,0 +1,10 @@
+C:\Users\guiii\OneDrive\Documentos\FATEC\2º Semestre\Linguagem de programação II\Visual Studio\Primeiro_Projeto\obj\Debug\Primeiro_Projeto.csprojAssemblyReference.cache
+C:\Users\guiii\OneDrive\Documentos\FATEC\2º Semestre\Linguagem de programação II\Visual Studio\Primeiro_Projeto\obj\Debug\Primeiro_Projeto.Form1.resources
+C:\Users\guiii\OneDrive\Documentos\FATEC\2º Semestre\Linguagem de programação II\Visual Studio\Primeiro_Projeto\obj\Debug\Primeiro_Projeto.Properties.Resources.resources
+C:\Users\guiii\OneDrive\Documentos\FATEC\2º Semestre\Linguagem de programação II\Visual Studio\Primeiro_Projeto\obj\Debug\Primeiro_Projeto.csproj.GenerateResource.cache
+C:\Users\guiii\OneDrive\Documentos\FATEC\2º Semestre\Linguagem de programação II\Visual Studio\Primeiro_Projeto\obj\Debug\Primeiro_Projeto.csproj.CoreCompileInputs.cache
+C:\Users\guiii\OneDrive\Documentos\FATEC\2º Semestre\Linguagem de programação II\Visual Studio\Primeiro_Projeto\bin\Debug\Primeiro_Projeto.exe.config
+C:\Users\guiii\OneDrive\Documentos\FATEC\2º Semestre\Linguagem de programação II\Visual Studio\Primeiro_Projeto\bin\Debug\Primeiro_Projeto.exe
+C:\Users\guiii\OneDrive\Documentos\FATEC\2º Semestre\Linguagem de programação II\Visual Studio\Primeiro_Projeto\bin\Debug\Primeiro_Projeto.pdb
+C:\Users\guiii\OneDrive\Documentos\FATEC\2º Semestre\Linguagem de programação II\Visual Studio\Primeiro_Projeto\obj\Debug\Primeiro_Projeto.exe
+C:\Users\guiii\OneDrive\Documentos\FATEC\2º Semestre\Linguagem de programação II\Visual Studio\Primeiro_Projeto\obj\Debug\Primeiro_Projeto.pdb
