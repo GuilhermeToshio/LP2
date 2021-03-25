@@ -1,0 +1,5 @@
+C:\Users\guiii\OneDrive\Documentos\FATEC\2º Semestre\Linguagem de programação II\Visual Studio\Atividade Horarios\obj\Debug\Atividade Horarios.csprojAssemblyReference.cache
+C:\Users\guiii\OneDrive\Documentos\FATEC\2º Semestre\Linguagem de programação II\Visual Studio\Atividade Horarios\obj\Debug\Atividade_Horarios.frmHorista.resources
+C:\Users\guiii\OneDrive\Documentos\FATEC\2º Semestre\Linguagem de programação II\Visual Studio\Atividade Horarios\obj\Debug\Atividade_Horarios.Properties.Resources.resources
+C:\Users\guiii\OneDrive\Documentos\FATEC\2º Semestre\Linguagem de programação II\Visual Studio\Atividade Horarios\obj\Debug\Atividade Horarios.csproj.GenerateResource.cache
+C:\Users\guiii\OneDrive\Documentos\FATEC\2º Semestre\Linguagem de programação II\Visual Studio\Atividade Horarios\obj\Debug\Atividade Horarios.csproj.CoreCompileInputs.cache
